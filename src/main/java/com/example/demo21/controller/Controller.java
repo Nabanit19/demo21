@@ -11,6 +11,6 @@ public class Controller {
     @GetMapping
     public String fun1(){
 
-        return "Here we are! Happy Sunday!!";
+        return "Here we are! Happy Sunday!!!";
     }
 }
