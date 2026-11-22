@@ -10,6 +10,7 @@ public class Controller {
 
     @GetMapping
     public String fun1(){
-        return "Here we are!";
+
+        return "Here we are! Happy Sunday!!";
     }
 }
